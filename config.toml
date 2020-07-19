@@ -54,7 +54,7 @@ copyright = "© {year}"
   url = "/"
   
 [[menu.main]]
-  identifier = "about me"
+  identifier = "about"
   name = "about me"
   title = "About me"
   url = "/me"
