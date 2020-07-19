@@ -2,11 +2,17 @@
 title: "About Me"
 ---
 
-## About me
+![Untitled%209b78780e4bfd485eb813fb82df949f4f/avatar.jpg](Untitled%209b78780e4bfd485eb813fb82df949f4f/avatar.jpg)
 
 I am a 1st year PhD student in Biomedical data science working with Prof. [Qiongshi Lu](http://qlu-lab.org/) at UW-Madison. My current research interests include statistical genetics especially robust inference on gene-environment interaction, social genomics and causal inference.
 
 Prior to that, I graduated from [UW-Madison](https://www.wisc.edu/) with a M.S in data science and [Nanjing University](https://www.nju.edu.cn/en/main.psp) with a B.S. in statistics.
+
+## Education
+
+2018 - 2020 M.S. in Statistics, UW-Madison
+
+2015 - 2019 B.S. in Statistics, Nanjing University
 
 ## Education
 
