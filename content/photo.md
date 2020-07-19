@@ -6,7 +6,7 @@ I always think that photos are the best storytellers, so I list photos to help y
 
 ### Ominigenic
 ![alt text](https://github.com/jmiao24/personal_website/blob/master/content/photos/Omigenic.jpeg?raw=true)
-Picuture illustrate omnigenic model for eye color. [Omnigenic model](https://www.cell.com/cell/fulltext/S0092-8674(17)30629-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867417306293%3Fshowall%3Dtrue) was first proposed by Prof.Jonathan K. Pritchard. I really love this paper! Simple but convincing analysis to proof the hypothesis. Hope I can do such great paper in the future!
+Picuture illustrate the omnigenic model for eye color. [Omnigenic model](https://www.cell.com/cell/fulltext/S0092-8674(17)30629-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867417306293%3Fshowall%3Dtrue) was first proposed by Prof.Jonathan K. Pritchard. I really love this paper! Simple but convincing analysis to proof the hypothesis. Hope I can do such great paper in the future!
 
 ### Food in Nanchang
 ![alt text](https://github.com/jmiao24/personal_website/blob/master/content/photos/Food_Nanchang.JPG?raw=true)
