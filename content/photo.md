@@ -24,13 +24,17 @@ My favorite chinese photographer is [Grinch1982(Tao Liu )](https://grinch1982.co
 
 As for Zhi Li, I attended his live concert two times, including the New Year's Eve concert “Believe in Future" in 2018(may be the last public avaliable New Year's Eve concert for Zhi Li). He had a plan about holding live concert in 334 cities in China, but failed. :)
 
+### In rainbows from Radiohead
+![alt text](https://github.com/jmiao24/personal_website/blob/master/content/photos/In_Rainbows.jpg?raw=true)
+In rainbows is my favorite album of Radiohead. Weird Fishes/ Arpeggi is always considerd the best love song for me! There is a live show for this album called ["In Rainbows From the Basement"](https://www.youtube.com/watch?v=DWuAn6C8Mfc). Hope you enjoy it!
+
 ### Fall in Madison
 ![alt text](https://github.com/jmiao24/personal_website/blob/master/content/photos/Fall_Madison.jpeg?raw=true)
 My first fall in Madison. I love every season of Madison, but fall is no better than winter.
 
 ### Hand clap with Luka Doncic
 ![alt text](https://github.com/jmiao24/personal_website/blob/master/content/photos/luka.jpg?raw=true)
-Go luka!
+Luka is a faster learner. Go Luka!
 
 ### Graduation trip in Mount Siguniang
 ![alt text](https://github.com/jmiao24/personal_website/blob/master/content/photos/Siguniang.jpeg?raw=true)
@@ -49,9 +53,7 @@ I present a poster at [ASHG20219](https://www.ashg.org/meetings/) in Houston. It
 First snow at Madison in 2019. Just to let you know, Madison has a winter around 8 months. :D
 
 
-### In rainbows from Radiohead
-![alt text](https://github.com/jmiao24/personal_website/blob/master/content/photos/In_Rainbows.jpg?raw=true)
-In rainbows is my favorite album of Radiohead. Weird Fishes/ Arpeggi is always considerd the best love song for me! There is a live show for this album called ["In Rainbows From the Basement"](https://www.youtube.com/watch?v=DWuAn6C8Mfc). Hope you enjoy it!
+
 
 ###TBA
 
