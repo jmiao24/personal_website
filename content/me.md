@@ -15,7 +15,7 @@ Jiacheng Miao is a 1st year PhD student in Biomedical Data Science working with 
 
 
 ## Publications
-* **Miao, J**., Wu, Y., Huang, K., Zhao, Z., Ni, ., Lu, Q.,(2020), “Testing gene-environment interaction without measuring the environment”, In preparation.
+* **Miao, J**., Wu, Y., Huang, K., Zhao, Z., Ni, Z., Lu, Q.,(2020), “Testing gene-environment interaction without measuring the environment”, In preparation.
 
 ## Reading
 I'm trying to read more, but I often get bored and lose track. :( At the end of the summer, I'll add a list of all the books that I read.
