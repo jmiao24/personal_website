@@ -69,7 +69,7 @@ copyright = "© {year}"
   identifier = "photo"
   name = "photo"
   title = "photo"
-  url = "photo"
+  url = "/photo"
   
   
 
