@@ -6,7 +6,7 @@ I always think that photos are the best storytellers, so I list photos to help y
 
 ### Ominigenic
 ![alt text](https://github.com/jmiao24/personal_website/blob/master/content/photos/Omigenic.jpeg?raw=true)
-Omnigenic model for eye color. [Omnigenic model](https://www.cell.com/cell/fulltext/S0092-8674(17)30629-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867417306293%3Fshowall%3Dtrue) was first proposed by Prof.Jonathan K. Pritchard. I really love this paper! Simple but convincing analysis to proof the hypothesis. Hope I can do such great paper in the future!
+Picuture illustrate omnigenic model for eye color. [Omnigenic model](https://www.cell.com/cell/fulltext/S0092-8674(17)30629-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867417306293%3Fshowall%3Dtrue) was first proposed by Prof.Jonathan K. Pritchard. I really love this paper! Simple but convincing analysis to proof the hypothesis. Hope I can do such great paper in the future!
 
 ### Food in Nanchang
 ![alt text](https://github.com/jmiao24/personal_website/blob/master/content/photos/Food_Nanchang.JPG?raw=true)
@@ -42,11 +42,11 @@ This is from the graduation trip in Mount Siguniang with so many lovely friends 
 
 ### IGSS2019 at CU Boulder
 ![alt text](https://github.com/jmiao24/personal_website/blob/master/content/photos/IGSS2019.jpg?raw=true)
-I have my first oral talk at [IGSS2019](https://cupc.colorado.edu/conferences/IGSS_2019/) in CU Boulder! I met a lot of big names in the meeting. Some of them encouraged and praised me in person after my talk althought I thought my talk was imperfect. They are all nice people!
+I had my first oral talk at [IGSS2019](https://cupc.colorado.edu/conferences/IGSS_2019/) in CU Boulder! I met a lot of big names in the meeting. Some of them encouraged and praised me in person after my talk althought I thought my talk was imperfect. They are all nice people!
 
 ### AHSG2019 at Houston
 ![alt text](https://github.com/jmiao24/personal_website/blob/master/content/photos/ASHG2019.JPG?raw=true)
-I present a poster at [ASHG20219](https://www.ashg.org/meetings/) in Houston. It is called genetics disney by my advisor. It is also fun but with different atomphere compared to IGSS. By the way, I became a Margarita lover in Houston. :)
+I presented a poster at [ASHG20219](https://www.ashg.org/meetings/) in Houston. It is called genetics disney by my advisor. It is also fun but with different atomphere compared to IGSS. By the way, I became a Margarita lover in Houston. :)
 
 ### First Snow in Madison
 ![alt text](https://github.com/jmiao24/personal_website/blob/master/content/photos/Snow_Madison.JPG?raw=true)
