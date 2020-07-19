@@ -3,7 +3,7 @@ title: "Photos about me"
 date: 2020-07-19
 ---
 
-I always think that photos are the best storytellers, so I list photos to help you and myself understand me.
+I always think that photos are the best storytellers, so I list photos to help you know more about me.
 
 ### Ominigenic
 ![alt text](https://github.com/jmiao24/personal_website/blob/master/content/photos/Omigenic.jpeg?raw=true)
