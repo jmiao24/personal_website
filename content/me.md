@@ -18,4 +18,12 @@ Jiacheng Miao is a 1st year PhD student in Biomedical Data Science working with 
 * **Miao, J**., Wu, Y., Huang, K., Zhao, Z., Ni, Z., Lu, Q.,(2020), “Testing gene-environment interaction without measuring the environment”, In preparation.
 
 ## More about me
-I'm trying to read more, but I often get bored and lose track. :( At the end of the summer, I'll add a list of all the books that I read.
+I majored in mathematics and statistics during the first two and last two undergraduate years, respectively. For me, math is rigorous and science is intriguing. The best way to bridge the gap between science without wet-lab work and mathematics is to pursue statistics. One day, my friend shared [Prof.Dimitris Bertsimas 's homepage](http://www.mit.edu/~dbertsim/index.html) with me. I was deeply inspired and encouraged by his life stories about and philosophy. After that, I made up my mind to pursue a Ph.D. degree.
+
+These are the quotes I really love.
+
+> Essentially, all models are wrong, but some are useful. -George Box
+
+> All human behavioral traits are heritable. -Eric Turkheimer
+
+> 我对自己的要求很低：我活在世上，无非想要明白些道理，遇见些有趣的事。倘能如我所愿，我的一生就算成功。-王小波
