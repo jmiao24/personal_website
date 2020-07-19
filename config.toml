@@ -24,7 +24,7 @@ copyright = "© {year}"
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   twitter = "https://twitter.com/Jiacheng_Miao"
    email = "mailto:jmiao24@wisc.edu"
-  iconTitles = ["Twitter", "Email"]
+  iconTitles = ["twitter", "email"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   # twitterSite = "@<your handle>"
