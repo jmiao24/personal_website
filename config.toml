@@ -45,7 +45,7 @@ copyright = "© {year}"
 
 # Controls the navigation
 [[menu.main]]
-  identifier = "about me"
+  identifier = "about-me"
   name = "about me"
   title = "About me"
   url = "/"
