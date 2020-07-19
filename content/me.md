@@ -1,27 +1,19 @@
 ---
-title: "About Me, Summer 2020 💪"
+title: "About Me"
 ---
 
+## About me
+
+I am a 1st year PhD student in Biomedical data science working with Prof. [Qiongshi Lu](http://qlu-lab.org/) at UW-Madison. My current research interests include statistical genetics especially robust inference on gene-environment interaction, social genomics and causal inference.
+
+Prior to that, I graduated from [UW-Madison](https://www.wisc.edu/) with a M.S in data science and [Nanjing University](https://www.nju.edu.cn/en/main.psp) with a B.S. in statistics.
+
 ## Education
-I'm currently pursuing a dual degree in Computer Science and Economics with a minor in Astrophysics from the University of California, Berkeley. This summer, I'm taking CS70: Discreet Math and Probability Theory from Berkeley.
 
-## Teaching
-I'm a big believer in the Feynmann Technique of learning –– that the best teacher is the best learner. I'm a teaching assistant for CS61A at Berkeley this summer, and am extremely excited to help students through a class I thoroughly enjoyed. [Here's my course website that I set up for my students.](https://arushisomani.me/cs61a)
+2018 - 2020 M.S. in Statistics, UW-Madison
 
-## Entrepreneurship
-I'm currently working on [V A T T](https://vatt.caard.co), an SaaS product with the mission to dub and subtitle the internet. This summer, we're participating in Dorm Room Fund's Female Founder Track, working on rapidly iterate our product, ready for release and fundraising.
+2015 - 2019 B.S. in Statistics, Nanjing University
 
-## Internship
-I'm interning this summer as a software development engineer at [Vurbl Media](https://vurbl.com), a startup developing a Youtube-like platform for podcasts. I'm part of the development team working on a transcription and tagging algorithm.
-
-## BEGIN Volunteer
-I'm working as a Web Developer and Marketing Specialist for Berkeley SCET's Gateway To Innovation Program. This summer, I'm working on developing a new landing page and improving user experience.
-
-## STEP Developer
-I'm working as a developer for Berkeley's Student Entrepreneurship Program. I'll be reforming the website, updating backend and developing software for use of participating teams to track KPIs. 
-
-## Music
-I love Bollywood music, and acoustic guitars. While I'm no expert, I try to get some practise in every night! I'm too shy to release anything right now, but hopefully I'll get enough courage to receive courage eventually.
 
 ## Summer Projects
 I've tried to keep busy!
