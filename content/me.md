@@ -22,8 +22,8 @@ I majored in mathematics and statistics during the first two and last two underg
 
 These are the quotes I really love.
 
-> Essentially, all models are wrong, but some are useful. -George Box
+*1. Essentially, all models are wrong, but some are useful. -George Box*
 
-> All human behavioral traits are heritable. -Eric Turkheimer
+*2. All human behavioral traits are heritable. -Eric Turkheimer*
 
-> 我对自己的要求很低：我活在世上，无非想要明白些道理，遇见些有趣的事。倘能如我所愿，我的一生就算成功。-王小波
+*3. 我对自己的要求很低：我活在世上，无非想要明白些道理，遇见些有趣的事。倘能如我所愿，我的一生就算成功。-王小波*
