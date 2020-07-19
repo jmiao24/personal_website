@@ -4,9 +4,9 @@
 theme = "hugo-theme-codex" 
 
 # Override these settings with your own
-title = "codex"
+title = "Jiacheng Miao's Homepage"
 languageCode = "en-us"
-baseURL = "https://example.org/"
+baseURL = "https://jiachengmiao.com/"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
@@ -23,7 +23,7 @@ copyright = "© {year}"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   twitter = "https://twitter.com/Jiacheng_Miao"
-   email = "mailto:jmiao24@wisc.edu"
+  email = "mailto:jmiao24@wisc.edu"
   iconTitles = ["Twitter", "Email"]
 
   # Metadata for Twitter cards, defaults to params.twitter
@@ -55,6 +55,5 @@ copyright = "© {year}"
   title = "Blog"
   url = "/blog"
 
-[params.colors]
-    fancy = "#f06292"
+
 
