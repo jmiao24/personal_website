@@ -1,5 +1,6 @@
 ---
 title: "About Me"
+date: 2020-07-19
 ---
 
 ![alt text](https://github.com/jmiao24/personal_website/blob/master/content/avatar.JPG?raw=true)
