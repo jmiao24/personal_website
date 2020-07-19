@@ -13,7 +13,7 @@ copyright = "© {year}"
 # disqusShortname = ""
 
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
-# googleAnalytics = "" 
+ googleAnalytics = "UA-173000121-1" 
 
 # Optional params
 [params]
@@ -44,6 +44,12 @@ copyright = "© {year}"
       unsafe = true
 
 # Controls the navigation
+[[menu.main]]
+  identifier = "about me"
+  name = "about me"
+  title = "About me"
+  url = "/"
+
 [[menu.main]]
   identifier = "about"
   name = "about"
