@@ -49,11 +49,6 @@ I had my first oral talk at [IGSS2019](https://cupc.colorado.edu/conferences/IGS
 ![alt text](https://github.com/jmiao24/personal_website/blob/master/content/photos/ASHG2019.JPG?raw=true)
 I presented a poster at [ASHG20219](https://www.ashg.org/meetings/) in Houston. It is called genetics disney by my advisor. It is also fun but with different atomphere compared to IGSS. By the way, I became a Margarita lover in Houston. :)
 
-### First Snow in Madison
-![alt text](https://github.com/jmiao24/personal_website/blob/master/content/photos/Snow_Madison.JPG?raw=true)
-First snow at Madison in 2019. Just to let you know, Madison has a winter around 8 months. :D
-
-
 
 
 ###TBA
