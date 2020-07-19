@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-![Untitled%209b78780e4bfd485eb813fb82df949f4f/avatar.jpg](Untitled%209b78780e4bfd485eb813fb82df949f4f/avatar.jpg)
+![alt text](https://github.com/jmiao24/personal_website/blob/master/content/avatar.JPG?raw=true)
 
 I am a 1st year PhD student in Biomedical data science working with Prof. [Qiongshi Lu](http://qlu-lab.org/) at UW-Madison. My current research interests include statistical genetics especially robust inference on gene-environment interaction, social genomics and causal inference.
 
