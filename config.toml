@@ -65,5 +65,6 @@ copyright = "© {year}"
   title = "Blog"
   url = "/blog"
 
-
+[params.colors]
+    fancy = "#f06292"
 
