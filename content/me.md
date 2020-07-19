@@ -2,10 +2,10 @@
 title: "About Me"
 ---
 
-![alt text](https://github.com/jmiao24/personal_website/blob/master/content/avatar.JPG?raw=true){ width=50% }
+![alt text](https://github.com/jmiao24/personal_website/blob/master/content/avatar.JPG?raw=true)
 
 ## Background
-Jiacheng Miao a 1st year PhD student in Biomedical Data Science working with Prof. [Qiongshi Lu](http://qlu-lab.org/) at UW-Madison. His current research interests include statistical genetics especially robust inference on gene-environment interactions, social genomics and causal inference.
+Jiacheng Miao is a 1st year PhD student in Biomedical Data Science working with Prof. [Qiongshi Lu](http://qlu-lab.org/) at UW-Madison. His current research interests include statistical genetics especially robust inference on gene-environment interactions, social genomics and causal inference.
 
 ## Education
 
