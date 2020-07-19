@@ -4,7 +4,7 @@
     border-right: .10em solid orange; /* The typwriter cursor */
     white-space: nowrap; /* Keeps the content on a single line */
     margin: 1 auto; /* Gives that scrolling effect as the typing happens */
-    max-width: 8em;
+    max-width: 7.5em;
     animation: 
       typing 3.5s steps(40, end),
       blink-caret .7s step-end infinite;
