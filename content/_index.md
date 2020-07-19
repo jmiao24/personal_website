@@ -1,5 +1,5 @@
 ---
 heading: "Hi, I'm Jiacheng Miao"
-subheading: "A PhD student in Biomedical Data Science."
-handle: "hugo-theme-codex"
+subheading: "A Ph.D. student in Biomedical Data Science at UW-Madison."
+
 ---
