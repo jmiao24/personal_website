@@ -1,7 +1,7 @@
 ---
-title: "Photos around me"
+title: "Photos about me"
 ---
 
-I'm currently pursuing a dual degree in Computer Science and Economics with a minor in Astrophysics from the University of California, Berkeley. This summer, I'm taking CS70: Discreet Math and Probability Theory from Berkeley.
+I always thought photos are the best story tellers, so I list so photos to help you get understand me as well as my understand myself.
 
 ![alt text](https://github.com/jmiao24/personal_website/blob/master/content/avatar.JPG?raw=true)
