@@ -1,7 +1,7 @@
 .typewriter h1 {
     color: #000;
     overflow: hidden; /* Ensures the content is not revealed until the animation */
-    border-right: .20em solid orange; /* The typwriter cursor */
+    border-right: .50em solid orange; /* The typwriter cursor */
     white-space: nowrap; /* Keeps the content on a single line */
     margin: 1 auto; /* Gives that scrolling effect as the typing happens */
     max-width: 9.3em;
@@ -13,7 +13,7 @@
   /* The typing effect */
   @keyframes typing {
     from { width: 0 }
-    to { width: 100% }
+    to { width: 120% }
   }
   
   /* The typewriter cursor effect */
