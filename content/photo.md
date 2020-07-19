@@ -15,11 +15,13 @@ These two food always remind me of my lovely hometown, Nanchang.
 ### Bayi Park in Nanchang
 ![alt text](https://github.com/jmiao24/personal_website/blob/master/content/photos/Bayi_Park.JPG?raw=true)
 I took this photo in a park near my home when I was young. This photo comes from a series of photos I named "Bayi Park". It is about the daily life of people in the park. 
+
 My favorite chinese photographer is [Grinch1982(Tao Liu )](https://grinch1982.com/liu-tao). His photo is about the dramatics and black humor in the atmosphere of the city.
 
 ### I Love Nanjing
 ![alt text](https://github.com/jmiao24/personal_website/blob/master/content/photos/I_Love_Nanjing.png?raw=true)
 "I Love Nanjing " is an album from [Zhi Li](https://www.youtube.com/channel/UCWTQhMAoQY8nc-WaIiVnssg) in 2009. I spend 3 years of my life in Nanjing. Nanjing changed me.  
+
 As for Zhi Li, I attended his live concert two times, including the New Year's Eve concert “Believe in Future" in 2018(may be the last public avaliable New Year's Eve concert for Zhi Li). He had a plan about holding live concert in 334 cities in China, but failed. :)
 
 ### Fall in Madison
