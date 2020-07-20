@@ -67,8 +67,8 @@ copyright = "© {year}"
   
   [[menu.main]]
   identifier = "photo"
-  name = "photo"
-  title = "photo"
+  name = "photos"
+  title = "photos"
   url = "/photo"
   
   
