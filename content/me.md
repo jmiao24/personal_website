@@ -26,6 +26,6 @@ These are the quotes I really love.
 
 *2. All human behavioral traits are heritable. -Eric Turkheimer*
 
-(Note from me: through both nature and nurture path way. See the Science paper: [The nature of nurture: Effects of parental genotypes](https://science.sciencemag.org/content/359/6374/424).
+(Through both nature and nurture pathway. See the Science paper: [The nature of nurture: Effects of parental genotypes](https://science.sciencemag.org/content/359/6374/424).
 
 *3. 我对自己的要求很低：我活在世上，无非想要明白些道理，遇见些有趣的事。倘能如我所愿，我的一生就算成功。-王小波*
