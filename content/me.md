@@ -10,7 +10,7 @@ Jiacheng Miao is a 1st year PhD student in Biomedical Data Science working with 
 
 ## Education
 
-* 2018 - 2020 M.S. in Data Science, UW-Madison
+* 2018 - 2020 M.S. in Statistics, UW-Madison
 * 2015 - 2019 B.S. in Statistics, Nanjing University
 
 
