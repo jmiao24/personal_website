@@ -8,7 +8,7 @@ date: 2020-07-19
 ## Background
 Jiacheng Miao is a 1st year PhD student in Biomedical Data Science working with Prof. [Qiongshi Lu](http://qlu-lab.org/) at UW-Madison. His current research interests include statistical genetics especially robust inference on gene-environment interactions, social genomics, population genetics and causal inference.
 
-The ultimate goal of my research is to use statistics to gain new insights into the genetic structure of complex traits and diseases.
+The ultimate goal of his research is to use statistics to gain new insights into the genetic structure of complex traits and diseases.
 
 ## Education
 
