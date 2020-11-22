@@ -10,12 +10,6 @@ Jiacheng Miao is a 1st year PhD student in Biomedical Data Science working with 
 
 The ultimate goal of his research is to use statistics to gain new insights into the genetic architecture of complex traits and diseases.
 
-## Education
-
-* 2018 - 2020 M.S. in Statistics, UW-Madison
-* 2015 - 2019 B.S. in Statistics, Nanjing University
-
-
 ## Publications
 
 * Schmitz L., Goodwin J., **Miao J.**, Lu Q., Conley D. (2020). The impact of late-career job loss and genotype on body mass index. Submitted.
