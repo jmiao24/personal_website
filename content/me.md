@@ -1,10 +1,8 @@
-
 ---
 title: "About Me"
 date: 2020-07-19
 ---
 
-<span style="color:#fff; font-family: 'Lato'; font-size: 4em;">INSPIRATION DAY</span>
 ![alt text](https://github.com/jmiao24/personal_website/blob/master/content/avatar.JPG?raw=true)
 
 ## Background
