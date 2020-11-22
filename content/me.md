@@ -1,3 +1,5 @@
+<span style="color:#fff; font-family: 'Lato'; font-size: 4em;">INSPIRATION DAY</span>
+
 ---
 title: "About Me"
 date: 2020-07-19
