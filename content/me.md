@@ -17,6 +17,8 @@ The ultimate goal of his research is to use statistics to gain new insights into
 
 
 ## Publications
+* Schmitz L., Goodwin J., **Miao J.**, Lu Q., Conley D. (2020). The impact of late-career job loss and genotype on body mass index. Submitted.
+
 * **Miao, J**., Wu, Y., Huang, K., Zhao, Z., Ni, Z., Lu, Q.,(2020), “Testing gene-environment interaction without measuring the environment”, In preparation.
 
 ## More about me
