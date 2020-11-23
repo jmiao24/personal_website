@@ -10,11 +10,6 @@ Jiacheng Miao is a 1st year PhD student in Biomedical Data Science working with 
 
 The ultimate goal of his research is to use statistics to gain new insights into the genetic architecture of complex traits and diseases.
 
-## Publications
-
-**[2]** Schmitz L., Goodwin J., **Miao J.**, Lu Q., Conley D. (2020). [The impact of late-career job loss and genotype on body mass index.](https://www.medrxiv.org/content/10.1101/2020.11.20.20235895v1) Submitted. (preprint available on medRxiv)
-
-**[1]** **Miao J**., Wu Y., Huang K., Zhao Z., Ni Z., Lu Q.,(2020), Testing gene-environment interaction without measuring the environment, In preparation.
 
 ## More about me
 I majored in mathematics and statistics during the first two and last two undergraduate years, respectively. For me, math is rigorous and science is intriguing. The best way to bridge the gap between science without wet-lab work and mathematics is to pursue statistics. One day, my friend shared [Prof.Dimitris Bertsimas 's homepage](http://www.mit.edu/~dbertsim/index.html) with me. I was deeply inspired and encouraged by his life stories about and philosophy. After that, I made up my mind to pursue a Ph.D. degree.
