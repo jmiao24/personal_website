@@ -66,11 +66,11 @@ copyright = "© {year}"
   url = "/pub"
 
 
-[[menu.main]]
-  identifier = "blog"
-  name = "blog"
-  title = "Blog"
-  url = "/blog"
+#[[menu.main]]
+#  identifier = "blog"
+#  name = "blog"
+#  title = "Blog"
+#  url = "/blog"
   
   [[menu.main]]
   identifier = "photo"
